@@ -1,5 +1,5 @@
 # hm19_RAMboys
-# TEAM MEMBRERS:
+# TEAM MEMBERS:
 1. Rohan Arora 
    Maharaja Surajmal Institute of Technology,
    Email - rohanjai777@gmail.com
